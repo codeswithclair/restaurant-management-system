@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management System – Software Engineering Prototype
+# 🍽️ Restaurant Operations System – Software Engineering Prototype
 
 ## 📘 Project Overview
 This repository contains an **academic project developed for the _Fundamentos de Ingeniería de Software_ course**.  
